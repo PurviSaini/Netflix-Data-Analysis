@@ -1,6 +1,7 @@
 # Netflix-Data-Analysis
 Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
-
+## Bring Netflix Data Analysis into action
+- Upload the python code from file : ``` Netflilx_DAV.py ``` to jupyter notebook
 ## Analysis
 
 ![Screenshot (88)](https://github.com/PurviSaini/Netflix-Data-Analysis/assets/101940722/bcc34cfb-bce4-48b2-86bb-2d43f5c9062e)
